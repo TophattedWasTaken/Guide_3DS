@@ -40,27 +40,33 @@ In this section, you will prepare the MSET9 exploit by **temporarily** creating 
 <!--@include: ./_include/ish-chorus.md -->
     ::: info
 
+    ![](/images/screenshots/mset9/mset9-ish-setup-notcreated.png)
+
+    :::
+
+1. Type `1`, then tap Return to begin the process of creating the MSET9 ID1
+    + The screen should change to this:
+
+    ::: info
+
     ![](/images/screenshots/mset9/mset9-ish-select.png)
 
     :::
 
 1. Type the number corresponding to your console model and version, then tap Return
-    + The screen should change to this:
 
-    ::: info
+    ::: info 
 
-    ![](/images/screenshots/mset9/mset9-ish-setup-notcreated.png)
+    ![](/images/screenshots/mset9/mset9-ish-disclaimer.png)
 
     :::
 
-    + Ensure that the correct console model and version is displayed
-1. Type `1`, then tap Return to begin the process of creating the MSET9 ID1
 1. After reviewing the disclaimer, type `1` again and tap Return to accept it
     + If you get an error, check the [troubleshooting](troubleshooting-mset9), then try again
-1. If you see the message "Created hacked ID1.", tap Return to close the MSET9 script
-    + Your 3DS will appear to have no data / no user-installed apps on HOME Menu. **This is expected.** Your data will come back at a later step
+1. If you see the message "[Created hacked ID1.](/images/screenshots/mset9/mset9-ish-created-hacked-id1.png)", tap Return to close the MSET9 script
 1. Reinsert your SD card into your console
 1. Power on your console
+    + Your console will appear to lose most data / no user-installed apps on HOME Menu. **This is expected.** Your data will come back at a later step
 1. Open Mii Maker
 1. Wait for your console to reach the [Welcome to Mii Maker](/images/screenshots/mset9/mii-welcome.png) screen, then exit Mii Maker and return to the HOME Menu
     + You may see [this screen](/images/screenshots/mset9/mii-extdata.png), which indicates the necessary data has been created
@@ -70,8 +76,7 @@ In this section, you will prepare the MSET9 exploit by **temporarily** creating 
 1. Power off your console by pressing the power button then tapping Power Off on the lower screen
 1. Insert your SD card into your iPhone/iPad (using an adapter)
 <!--@include: ./_include/ish-chorus.md -->
-1. Type the number corresponding to your console model and version, then tap Return
-    + The screen should change to this and display `Ready`:
+    + The screen should change display `Ready`:
 
     ::: info
 
@@ -137,12 +142,16 @@ Do NOT skip this section! If you skip it, applications may crash unexpectedly an
 1. Power off your console
 1. Insert your SD card into your iPhone/iPad (using an adapter)
 <!--@include: ./_include/ish-chorus.md -->
-1. Type the number corresponding to your console model and version, then tap Return
-    + The current state should display [Injected](/images/screenshots/mset9/mset9-ish-injected.png)
-    + If you have already removed the trigger file (or never injected in the first place), the current state will show [Ready](/images/screenshots/mset9/mset9-ish-ready.png), skip to Step 6
-1. Type `4`, then tap Return to remove the trigger file
-    + You should see "Removed trigger file."
-1. Type `5`, then tap Return to remove MSET9
+
+    ::: info
+
+    ![](/images/screenshots/mset9/mset9-ish-removed-trigger-file.png)
+
+    :::
+    
+    + The current state should display Removed trigger file
+    + If you never injected in the first place, or it was removed earlier, the current state will show [Ready](/images/screenshots/mset9/mset9-ish-ready.png)
+1. Type `4`, then tap Return to remove MSET9
     + You should see "Successfully removed MSET9!"
 1. Tap Return to close the MSET9 script
 
