@@ -10,7 +10,7 @@
 
 ## Τι χρειάζεστε
 
-- The latest version of [guiformat](https://nintendohomebrew.com/guiformat)
+- Την πιο πρόσφατη έκδοση του [guiformat](https://nintendohomebrew.com/guiformat)
 
 ## Οδηγίες
 

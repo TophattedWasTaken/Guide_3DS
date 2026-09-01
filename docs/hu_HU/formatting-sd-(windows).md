@@ -10,7 +10,7 @@ Ez az oldal Windows felhasználókra vonatkozik. Ha nem Windows rendszeren vagy,
 
 ## Amire szükséged lesz
 
-- The latest version of [guiformat](https://nintendohomebrew.com/guiformat)
+- - A [guiformat](https://nintendohomebrew.com/guiformat) legújabb kiadása
 
 ## Lépések
 
