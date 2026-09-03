@@ -10,7 +10,7 @@ If you are using a SteamOS device (e.g. Steam Deck or Steam Machine), you should
 
 ::: warning
 
-This page is for Linux users that have access to KDE Partition Manager only. If you are not on Linux, check out the [Formatting SD (Windows)](formatting-sd-(windows)) or [Formatting SD (Mac)](formatting-sd-(mac)) pages. If you are on Linux but don't have access to KDE Partition Manager, follow the instructions on the [Formatting SD (Linux)](formatting-sd-linux)) page.
+This page is for Linux users that have access to KDE Partition Manager only. If you are not on Linux, check out the [Formatting SD (Windows)](formatting-sd-(windows)) or [Formatting SD (Mac)](formatting-sd-(mac)) pages. If you are on Linux but don't have access to KDE Partition Manager, follow the instructions on the [Formatting SD (Linux)](formatting-sd-(linux))) page.
 
 :::
 
